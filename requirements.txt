@@ -1,0 +1,7 @@
+Libraries required for data analysis and machine learning
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
