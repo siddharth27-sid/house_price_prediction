@@ -41,7 +41,7 @@ The models are evaluated using:
 - Mean Squared Error (MSE)
 - R² Score
 
-## ▶ How to Run
+##  How to Run
 
 Install the required Python libraries:
 
